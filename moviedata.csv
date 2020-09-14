@@ -1,0 +1,51 @@
+movie_id,movie_name,rating,genres,actors,director
+M1,A Mero Hajur 3,6.6,"Drama,Romance","Anmol K.C., Suhana Thapa, Arpan Thapa",Jharana Thapa
+M2,Chhakka Panja 3,4.9,Comedy,"Kedar Ghimire, Deepak Raj Giri, Deepika Prasai, Buddhi Tamang, Kiran KC, Priyanka Karki, Shivahari Paudel, Swastima Khadka",Deepa Shree Niraula
+M3, Kabaddi Kabaddi Kabaddi,8.2,"Comedy, Drama, Romance","Dayahang Rai, Upasana Singh Thakuri, Rishma Gurung, Karma, Wilson Bikram Rai, Buddhi Tamang",Ram Babu Gurung
+M4,Intu Mintu Londonma,7.2,Romance,"Samragyee Rajya Laxmi Shah, Dhiraj Magar, Saruk Tamrakar, Bibek Limbu",Renasha Bantawa Rai
+M5,Password,3.3,Crime,"Anoop Bikram Shahi, Bikram Joshi, Buddhi Tamang, Rabindra Jha, Prabin Khatioda, Dhiren Shakya, Sunny leone",Samrat Basnet
+M6,Jatra,8.1,"Action, Comedy, Drama","Bipin Karki, Barsha Raut, Rabindra Jha, Rabindra Singh Baniya",Pradeep Bhattarai
+M7,Romeo & Muna,7.5,"Drama, Romance","Vinay Shrestha, Shristi Shrestha, Surakshya Panta, Sushma Karki",Naresh Kumar KC
+M8,Captain,3.4,Sport,"Anmol K.C., Sunil Thapa, Priyanka Mv, Upashana Singh Thakuri",Diwakar Bhattarai
+M9,Pashupati Prasad,8.5,"Drama, Romance"," Khagendra Lamichhane, Rabindra Singh Baniya, Bipin Karki, Prakash Ghimire",Dipendra K. Khanal
+M10, Pahuna: The Little Visitors,7.5,"Drama, Mystery","Anmoul Limboo, Ishika Gurung, Manju Chhetri, Saran Rai",Paakhi A. Tyrewala
+M11,Jatrai Jatra,8,Comedy,"Bipin Karki, Barsha Raut, Rabindra Singh Baniya, Rabindra Jha",Pradeep Bhattarai
+M12,Bulbul,5.7,Drama,"Swastima Khadka, Mukunda Bhusal, Deepak Chhetri, Laxmi Bardewa",Binod Paudel
+M13,White Sun,7.1,"Adventure, Drama","Dayahang Rai, Asha Magrati, Rabindra Singh Baniya, Sumi Malla",Deepak Rauniyar
+M14,Ashmina,8.5,"Short, Drama","Dikshya Karki, Prakat Pageni, Sadhana Bhandari, Sebastian Seitz",Dekel Berenson
+M15,Prasad,7.9,Romance,"Bipin Karki, Namrata Shrestha, Nischal Basnet, Basundhara Bhusal",Dinesh Raut
+M16,Mr.Jholay,7.7,"Drama, Romance","Dayahang Rai, Deeya Pun, Buddhi Tamang, Barsha Raut",Ram Babu Gurung
+M17, Damaruko Dandibiyo,8.7,"Drama, Sport","Khagendra Lamichhane, Menuka Pradhan, Buddhi Tamang, Anup Baral",Chhetan Gurung
+M18, Sherbahadur,3.4,"Drama, Thriller","Sunil Thapa, Karma Shakya, Menuka Pradhan, Rabindra Jha", Raj Rajbanshi
+M19,Changaa Chait,7,Romance,"Shishir Bangdel, Sandip Chhetri, Maotse Gurung, Rabindra Jha",Dipendra K. Khanal
+M20, Daal Bhat Tarkari,2.6,Comedy,"Hari Bansha Acharya, Basundhara Bhusal, Kiran K.C., Pushpa Khadka",Sudan K.C
+M21,Chhakka Panja 2,6.2,"Comedy, Drama","Deepak Raj Giri, Kedar Ghimire, Priyanka Karki, Jeetu Nepal",Deepa Shree Niraula
+M22,Jai Bhole,5.6,Comedy,"Khagendra Lamichhane, Saugat Malla, Swastima Khadka, Buddhi Tamang",Ashok Sharma
+M23,Saili,8.4,"Drama, Romance","Dayahang Rai, Menuka Pradhan, Prakash Ghimire, Buddhi Tamang",Ram Babu Gurung
+M24,A Mero Hajur 2,7.3,"Drama, Romance","Salin Man Bania, Samragyee Rajya Laxmi Shah, Salon Basnet, Buddhi Tamang",Jharana Thapa
+M25,Ramkahani,5.9,"Comedy, Horror, Romance","Aakash Shrestha, Pooja Sharma, Kedar Ghimire, Wilson Bikram Rai",Sudarshan Thapa
+M26, Jhyanakuti,7.3,"Comedy, Drama, Romance","Benisha Hamal, Saugat Malla, Sumi Moktan, Karma Shakya",Simosh Sunuwar
+M27,Gopi,6.8,Drama,"Bipin Karki, Barsha Raut, Surakshya Panta",Dipendra Lama
+M28,Shatru Gate,6.1,"Comedy, Drama","Madan Krishna Shrestha, Hari Bansha Acharya, Deepak Raj Giri, Deepa Shree Niraula, Priyanka Karki, Paul Shah, Aanchal Sharma",Pradeep Bhattarai
+M29,Bato Muniko Phool 2,6,"Drama, Romance","Reema Bishwokarma, Babu Bogati, Yash Kumar, Ashishma Nakarmi",Subarna Thapa
+M30,Xira,6.3,"Action, Crime","Namrata Shrestha, Anoop Bikram Shahi, Srijana Regmi, Raymon Das Shrestha, Pramod Agrahari, Samrat Magar",Ashutosh Raj Shreatha
+M31,Sunkesari,4.5,"Drama, Horror","Reecha Sharma, Rabindra Jha, Sunny Dhakal, Lauren Lofberg",Arpan Thapa
+M32,Selfie King,6.9,Drama,"Bipin Karki, Laxmi Bardewa, Abhay Baral, Jiban Bhattarai",Bishal Sapkota
+M33,The Break Up,5.9,"Comedy, Drama, Romance","Aashirman D.S. Joshi, Shilpa Maskey, Raymon Das Shrestha, Saroj Khanal",Hem Raj B.C.
+M34,Katha Kathmandu,6.5,"Drama, Romance","Prekshya Adhikari, Pramod Agrahari, Ayushman Joshi, Indira Joshi",Sangita Shrestha
+M35,Nai Nabhannu La 5,6.9,"Drama, Romance","Keki Adhikari, Priyanka Karki, Swastima Khadka, Jayananda Lama",Bikash Raj Acharya
+M36,America Boys,8.3,"Comedy, Drama","Arpan Thapa, Abhay Baral, Ashish Prasai, Shristi Karki",Prabesh Paudel
+M37,Lappan Chhappan,6.9,"Crime, Drama","Dayahang Rai, Saugat Malla, Arpan Thapa, Barsha Siwakoti",Mukunda Bhatta
+M38,Gaja Baja,8.3,"Comedy, Drama","Sushil Sitaula, Anupam Sharma, Barsha Siwakoti, Amber Subedi",Ganesh Dev Pandey
+M39,Rose,6.6,"Crime, Romance","Pradeep Khadka, Miruna Magar, Paramita Rana, Karma Shakya",Nirak Poudel
+M40,Naakaa,6.3,"Crime, Drama","Bipin Karki, Thinley Lhamo, Ghanashyam Joshi, Ram Bhajan Kamat",Amit Shrestha
+M41,Chhakka Panja,6.7,"Comedy, Drama, Family","Deepak Raj Giri, Kedar Ghimire, Buddhi Tamang, Jeetu Nepal",Deepa Shree Niraula
+M42,Panchayat,6.3,"Drama, History","Neeta Dhungana, Saroj Khanal, Rupa Rana",Shivam Adhikari
+M43,Kri,5.9,"Action, Drama","Anmol K.C., Aditi Budhathoki, Anoop Bikram Shahi, Kameshwor Chaurasiya",Surendra Poudel
+M44,Dying Candle,8.5,"Drama, Family","Bidhya Karki, Saugat Malla, Kesab Rai, Srijana Subba",Naresh Kumar KC
+M45,Dhanapati,8.1,"Comedy, Drama","Khagendra Lamichhane, Surakshya Panta, Janak Bartaula, Kamal Devkota",Dipendra K. Khanal
+M46,Prem Geet,6.9,Romance,"Pradeep Khadka, Pooja Sharma, Saroj Khanal, Rupa Rana",Sudarshan Thapa
+M47,Ghampani,7.4,"Drama, Romance","Dayahang Rai, Keki Adhikari, Prakash Ghimire, Pushkar Gurung",Dipendra Lama
+M48,Lily Bily,6.2,"Drama, Romance","Pradeep Khadka, Priyanka Karki, Jassita Gurung, Anoop Bikram Shahi",Milan Chams
+M49,Bobby,7.9,Drama,"Rashmi Bhatta, Kabita Gurung Thapa, Vijay Lama, Elias Jung Thapa",Milan Chams
+M50,Hari,8,Drama,"Bipin Karki, Kamal Mani Nepal, Sunita Shrestha, Thinley Lhamo",Pratik Gurung
