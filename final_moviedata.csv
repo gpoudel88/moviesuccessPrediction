@@ -1,0 +1,51 @@
+movie_id,movie_name,rating,genres,actors,user_id,director,user_id
+1,A Mero Hajur 3,6.6,"[Drama,Romance]","Anmol K.C., Suhana Thapa, Arpan Thapa","[U36,U121,U27]",Jharana Thapa,U126
+2,Chhakka Panja 3,4.9,[Comedy],"Kedar Ghimire, Deepak Raj Giri, Deepika Prasai, Buddhi Tamang, Kiran KC, Priyanka Karki, Shivahari Paudel, Swastima Khadka","[U79,U9,U3,U118,U69,U16,U1,U122]",Deepa Shree Niraula,U91
+3, Kabaddi Kabaddi Kabaddi,8.2,"[Comedy, Drama, Romance]","Dayahang Rai, Upasana Singh Thakuri, Rishma Gurung, Karma, Wilson Bikram Rai, Buddhi Tamang","[U18,U66,U94,U15,U120,U118]",Ram Babu Gurung,U127
+4,Intu Mintu Londonma,7.2,[Romance],"Samragyee Rajya Laxmi Shah, Dhiraj Magar, Saruk Tamrakar, Bibek Limbu","[U71,U78,U80,U102]",Renasha Bantawa Rai,U128
+5,Password,3.3,[Crime],"Anoop Bikram Shahi, Bikram Joshi, Buddhi Tamang, Rabindra Jha, Prabin Khatioda, Dhiren Shakya, Sunny leone","[U67,U40,U118,U87,U33,U76,U62]",Samrat Basnet,U129
+6,Jatra,8.1,"[Action, Comedy, Drama]","Bipin Karki, Barsha Raut, Rabindra Jha, Rabindra Singh Baniya","[U74,U20,U87,U4]",Pradeep Bhattarai,U130
+7,Romeo & Muna,7.5,"[Drama, Romance]","Vinay Shrestha, Shristi Shrestha, Surakshya Panta, Sushma Karki","[U38,U60,U11,U7]",Naresh Kumar KC,U131
+8,Captain,3.4,[Sport],"Anmol K.C., Sunil Thapa, Priyanka Mv, Upashana Singh Thakuri","[U36,U86,U97,U77]",Diwakar Bhattarai,U132
+9,Pashupati Prasad,8.5,"[Drama, Romance]"," Khagendra Lamichhane, Rabindra Singh Baniya, Bipin Karki, Prakash Ghimire","[U82,U4,U74,U8]",Dipendra K. Khanal,U133
+10, Pahuna: The Little Visitors,7.5,"[Drama, Mystery]","Anmoul Limboo, Ishika Gurung, Manju Chhetri, Saran Rai","[U51,U63,U28,U104]",Paakhi A. Tyrewala,U134
+11,Jatrai Jatra,8,[Comedy],"Bipin Karki, Barsha Raut, Rabindra Singh Baniya, Rabindra Jha","[U74,U20,U4,U87]",Pradeep Bhattarai,U130
+12,Bulbul,5.7,[Drama],"Swastima Khadka, Mukunda Bhusal, Deepak Chhetri, Laxmi Bardewa","[U122,U88,U35,U61]",Binod Paudel,U135
+13,White Sun,7.1,"[Adventure, Drama]","Dayahang Rai, Asha Magrati, Rabindra Singh Baniya, Sumi Malla","[U18,U90,U4,U21]",Deepak Rauniyar,U136
+14,Ashmina,8.5,"[Short, Drama]","Dikshya Karki, Prakat Pageni, Sadhana Bhandari, Sebastian Seitz","[U92,U75,U100,U119]",Dekel Berenson,U137
+15,Prasad,7.9,[Romance],"Bipin Karki, Namrata Shrestha, Nischal Basnet, Basundhara Bhusal","[U74,U55,U53,U41]",Dinesh Raut,U138
+16,Mr.Jholay,7.7,"[Drama, Romance]","Dayahang Rai, Deeya Pun, Buddhi Tamang, Barsha Raut","[U18,U32,U118,U20]",Ram Babu Gurung,U127
+17, Damaruko Dandibiyo,8.7,"[Drama, Sport]","Khagendra Lamichhane, Menuka Pradhan, Buddhi Tamang, Anup Baral","[U82,U111,U118,U96]",Chhetan Gurung,U139
+18, Sherbahadur,3.4,"[Drama, Thriller]","Sunil Thapa, Karma Shakya, Menuka Pradhan, Rabindra Jha","[U86,U15,U111,U87]",Raj Rajbanshi,U140
+19,Changaa Chait,7,[Romance],"Shishir Bangdel, Sandip Chhetri, Maotse Gurung, Rabindra Jha","[U89,U44,U17,U87]",Dipendra K. Khanal,U133
+20, Daal Bhat Tarkari,2.6,[Comedy],"Hari Bansha Acharya, Basundhara Bhusal, Kiran K.C., Pushpa Khadka","[U81,U41,U56,U43]",Sudan K.C,U141
+21,Chhakka Panja 2,6.2,"[Comedy, Drama]","Deepak Raj Giri, Kedar Ghimire, Priyanka Karki, Jeetu Nepal","[U9,U79,U16,U6]",Deepa Shree Niraula,U91
+22,Jai Bhole,5.6,[Comedy],"Khagendra Lamichhane, Saugat Malla, Swastima Khadka, Buddhi Tamang","[U82,U42,U122,U118]",Ashok Sharma,U142
+23,Saili,8.4,"[Drama, Romance]","Dayahang Rai, Menuka Pradhan, Prakash Ghimire, Buddhi Tamang","[U18,U111,U8,U118]",Ram Babu Gurung,U127
+24,A Mero Hajur 2,7.3,"[Drama, Romance]","Salin Man Bania, Samragyee Rajya Laxmi Shah, Salon Basnet, Buddhi Tamang","[U123,U71,U114,U118]",Jharana Thapa,U126
+25,Ramkahani,5.9,"[Comedy, Horror, Romance]","Aakash Shrestha, Pooja Sharma, Kedar Ghimire, Wilson Bikram Rai","[U24,U65,U79,U120]",Sudarshan Thapa,U143
+26, Jhyanakuti,7.3,"[Comedy, Drama, Romance]","Benisha Hamal, Saugat Malla, Sumi Moktan, Karma Shakya","[U83,U42,U99,U15]",Simosh Sunuwar,U144
+27,Gopi,6.8,[Drama],"Bipin Karki, Barsha Raut, Surakshya Panta","[U74,U20,U11]",Dipendra Lama,U145
+28,Shatru Gate,6.1,"[Comedy, Drama]","Madan Krishna Shrestha, Hari Bansha Acharya, Deepak Raj Giri, Deepa Shree Niraula, Priyanka Karki, Paul Shah, Aanchal Sharma","[U68,U81,U9,U91,U16,U106,U25]",Pradeep Bhattarai,U130
+29,Bato Muniko Phool 2,6,"[Drama, Romance]","Reema Bishwokarma, Babu Bogati, Yash Kumar, Ashishma Nakarmi","[U50,U49,U19,U47]",Subarna Thapa,U146
+30,Xira,6.3,"[Action, Crime]","Namrata Shrestha, Anoop Bikram Shahi, Srijana Regmi, Raymon Das Shrestha, Pramod Agrahari, Samrat Magar","[U55,U67,U103,U117,U93,U108]",Ashutosh Raj Shreatha,U147
+31,Sunkesari,4.5,"[Drama, Horror]","Reecha Sharma, Rabindra Jha, Sunny Dhakal, Lauren Lofberg","[U110,U87,U45,U109]",Arpan Thapa,U27
+32,Selfie King,6.9,[Drama],"Bipin Karki, Laxmi Bardewa, Abhay Baral, Jiban Bhattarai","[U74,U61,U70,U54]",Bishal Sapkota,U148
+33,The Break Up,5.9,"[Comedy, Drama, Romance]","Aashirman D.S. Joshi, Shilpa Maskey, Raymon Das Shrestha, Saroj Khanal","[U72,U105,U117,U116]",Hem Raj B.C.,U149
+34,Katha Kathmandu,6.5,"[Drama, Romance]","Prekshya Adhikari, Pramod Agrahari, Ayushman Joshi, Indira Joshi","[U73,U93,U2,U39]",Sangita Shrestha,U150
+35,Nai Nabhannu La 5,6.9,"[Drama, Romance]","Keki Adhikari, Priyanka Karki, Swastima Khadka, Jayananda Lama","[U12,U16,U122,U58]",Bikash Raj Acharya,U151
+36,America Boys,8.3,"[Comedy, Drama]","Arpan Thapa, Abhay Baral, Ashish Prasai, Shristi Karki","[U27,U70,U37,U115]",Prabesh Paudel,U152
+37,Lappan Chhappan,6.9,"[Crime, Drama]","Dayahang Rai, Saugat Malla, Arpan Thapa, Barsha Siwakoti","[U18,U42,U27,U107]",Mukunda Bhatta,U153
+38,Gaja Baja,8.3,"[Comedy, Drama]","Sushil Sitaula, Anupam Sharma, Barsha Siwakoti, Amber Subedi","[U85,U125,U107,U101]",Ganesh Dev Pandey,U154
+39,Rose,6.6,"[Crime, Romance]","Pradeep Khadka, Miruna Magar, Paramita Rana, Karma Shakya","[U5,U64,U31,U15]",Nirak Poudel,U155
+40,Naakaa,6.3,"[Crime, Drama]","Bipin Karki, Thinley Lhamo, Ghanashyam Joshi, Ram Bhajan Kamat","[U74,U14,U22,U95]",Amit Shrestha,U156
+41,Chhakka Panja,6.7,"[Comedy, Drama, Family]","Deepak Raj Giri, Kedar Ghimire, Buddhi Tamang, Jeetu Nepal","[U9,U79,U118,U6]",Deepa Shree Niraula,U91
+42,Panchayat,6.3,"[Drama, History]","Neeta Dhungana, Saroj Khanal, Rupa Rana","[U98,U116,U84]",Shivam Adhikari,U158
+43,Kri,5.9,"[Action, Drama]","Anmol K.C., Aditi Budhathoki, Anoop Bikram Shahi, Kameshwor Chaurasiya","[U36,U52,U67,U13]",Surendra Poudel,U159
+44,Dying Candle,8.5,"[Drama, Family]","Bidhya Karki, Saugat Malla, Kesab Rai, Srijana Subba","[U124,U42,U10,U26]",Naresh Kumar KC,U131
+45,Dhanapati,8.1,"[Comedy, Drama]","Khagendra Lamichhane, Surakshya Panta, Janak Bartaula, Kamal Devkota","[U82,U11,U112,U48]",Dipendra K. Khanal,U133
+46,Prem Geet,6.9,[Romance],"Pradeep Khadka, Pooja Sharma, Saroj Khanal, Rupa Rana","[U5,U65,U116,U84]",Sudarshan Thapa,U143
+47,Ghampani,7.4,"[Drama, Romance]","Dayahang Rai, Keki Adhikari, Prakash Ghimire, Pushkar Gurung","[U18,U12,U8,U59]",Dipendra Lama,U145
+48,Lily Bily,6.2,"[Drama, Romance]","Pradeep Khadka, Priyanka Karki, Jassita Gurung, Anoop Bikram Shahi","[U5,U16,U34,U67]",Milan Chams,U160
+49,Bobby,7.9,[Drama],"Rashmi Bhatta, Kabita Gurung Thapa, Vijay Lama, Elias Jung Thapa","[U23,U29,U30,U46]",Milan Chams,U160
+50,Hari,8,[Drama],"Bipin Karki, Kamal Mani Nepal, Sunita Shrestha, Thinley Lhamo","[U74,U113,U57,U14]",Pratik Gurung,U161
